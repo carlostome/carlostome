@@ -116,7 +116,7 @@ control](https://en.wikipedia.org/wiki/Information_flow_(information_theory)).
     <td>
         <div class="title">Verified Tail-Recursive Folds through Dissection</div>
         Defended in July 2018  
-        Supervised by Wouter Swiestra
+        Supervised by Wouter Swierstra
         <div class="venue">Part of Master in Computing Science, Utrecht University</div>
         [(UU library)](https://studenttheses.uu.nl/handle/20.500.12932/30531)
     </td>
