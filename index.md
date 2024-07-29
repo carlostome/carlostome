@@ -121,6 +121,18 @@ control](https://en.wikipedia.org/wiki/Information_flow_(information_theory)).
         [(UU library)](https://studenttheses.uu.nl/handle/20.500.12932/30531)
     </td>
   </tr>
+  <tr>
+    <td>
+        <div class="tag">BSc. Thesis</div>
+    </td>
+    <td>
+        <div class="title">A Type System for Answer Set Programming with
+        Functionals</div>
+        Defended in February 2016
+        Supervised by Pedro Cabalar and Gilberto Pérez Vega
+        <div class="venue">Part of Bachelor in Computer Engineering, University of Coruña</div>
+    </td>
+  </tr>
 </table>
 
 ## Teaching
