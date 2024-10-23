@@ -148,14 +148,11 @@ control](https://en.wikipedia.org/wiki/Information_flow_(information_theory)).
 
 ## Community service
 
-- Paper reviewer, LMCS 2023
-- Artifact reviewer, ICFP 2023
-- Paper subreviewer, ESOP 2022
-- Artifact reviewer, ICFP 2021
+- Paper reviewer, [LMCS](https://lmcs.episciences.org/), 2023
+- Artifact reviewer, [ICFP 2023](https://icfp23.sigplan.org/)
+- Paper subreviewer, [ESOP 2022](https://etaps.org/2022/esop.html)
+- Artifact reviewer, [ICFP 2021](https://icfp21.sigplan.org/)
 
 ## Contact information
 
-Room 5447  
-Rännvägen 6B (EDIT building)  
-412 96 Gothenburg, Sweden  
-carlos.tome (at) chalmers.se  
+carlos.tome.cortinas (at) gmail.com
