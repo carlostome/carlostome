@@ -1,0 +1,68 @@
+/* Use a media query to add a breakpoint at 800px: */
+
+body {
+  width: 700px;
+  font-family: 'Roboto', sans-serif;
+  margin-right: 1%;
+  margin-left: 1%;
+}
+
+@media screen and (max-width: 700px) {
+  body {
+    width: 98%;
+  }
+}
+
+ul {
+  list-style-type: disc;
+  /* margin: 0; */
+  margin: 0;
+}
+
+table {
+  /* border-collapse: collapse; */
+  margin-bottom: 0px;
+}
+
+td {
+  padding-right: 8px;
+  padding-left: 4px;
+  padding-top: 2px;
+  padding-bottom: 0px;
+  vertical-align: top;
+}
+
+td.tag {
+  text-align: right;
+  white-space: nowrap;
+  width: 8em;
+}
+
+.tag {
+  font-style: italic;
+  font-weight: bold;
+  color: grey;
+}
+
+.title {
+  font-style: bold;
+  color: #046b99;
+}
+
+.venue {
+  color: grey;
+  font-style: italic;
+}
+
+.highlight {
+  color: darkred;
+}
+
+a {
+  color: #5b616b
+}
+
+h3, h2, h1 {
+  font-family: 'Archivo', sans-serif;
+}
+
