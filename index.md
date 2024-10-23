@@ -12,16 +12,20 @@ control](https://en.wikipedia.org/wiki/Information_flow_(information_theory)).
 ## Publications
     
 <table>
-  <!-- <tr> -->
-  <!--   <td> -->
-  <!--       <div class="tag">OOPSLA 2024</div> -->
-  <!--   </td> -->
-  <!--   <td> -->
-  <!--       <div class="title">Sensitivity by Parametricity</div> -->
-  <!--       <div class="author">Elisabet Lobo-Vesga, Carlos Tomé Cortiñas, Alejandro Russo and Marco Gaboardi</div> -->
-  <!--   </td> -->
-  <!-- </tr> -->
-  <!-- <tr> -->
+    <tr>
+    <td>
+        <div class="tag">OOPSLA 2024</div>
+    </td>
+    <td>
+        <div class="title">Sensitivity by Parametricity</div>
+        Elisabet Lobo-Vesga, Alejandro Russo, Marco Gaboardi and **Carlos Tomé Cortiñas**
+        <div class="venue">Proceedings of the ACM on Programming Languages, Volume 8, Issue OOPSLA2</div>
+        <div class="highlight">Distinguished artifact</div>
+        [(acm)](https://dl.acm.org/doi/10.1145/3689726)
+        [(doi)](https://doi.org/10.1145/3689726)
+    </td>
+  </tr>
+  <tr>
     <td>
         <div class="tag">ICFP 2022</div>
     </td>
